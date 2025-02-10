@@ -9,3 +9,8 @@
     * Aim of the project:
         Learning tool with Mindmaps, note-taking, and spaced repetition flashcards in one place.
         Stop wasting time with ineffective methods. Deeply grasp complex topics and remember for life.
+
+3) VIDEO VOICE-OVER PROJECT :
+    * Technologies used - React.Js , ReactFlow ,Django ,FFMPEG
+    * Aim of the project :
+        Providing an external audio track to the input video using FFmpeg can help add a voice-over to the video.
